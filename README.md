@@ -5,3 +5,4 @@ click here for demo ==>  https://chiragmehta900.github.io/College-TechFest.githu
 
 
 
+click here for demo in vercel ==>  https://college-techfest.chiragmehta900.vercel.app/
